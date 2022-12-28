@@ -12,9 +12,9 @@ Developer Team:
 
 
 To run this code:
-- To install all the necessary packages
-  npm i 
-- To start the website on your local host
-  npm start
+- To install all the necessary packages: </br>
+  <em>npm i</em>
+- To start the website on your local host: </br>
+  <em>npm start</em>
 
 Enjoy practicing!
